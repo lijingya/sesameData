@@ -9,7 +9,7 @@ Authors@R: c(person("Wanding", "Zhou", role = c("aut","cre"),
              email = "Hui.Shen@vai.org"),
              person("Timothy", "Triche", role = "ctb"))
 License: Artistic-2.0
-Depends: R (>= 3.5), ExperimentHub, AnnotationHub
+Depends: R (>= 3.3), ExperimentHub, AnnotationHub
 Suggests: GenomicRanges, BiocGenerics, sesame
 Imports: utils
 biocViews: ExperimentData, MicroarrayData, Genome
